@@ -1,0 +1,13 @@
+/home/balochcoder/Projects/C#/TOAPr1/bin/Debug/netcoreapp3.1/TOAPr1
+/home/balochcoder/Projects/C#/TOAPr1/bin/Debug/netcoreapp3.1/TOAPr1.deps.json
+/home/balochcoder/Projects/C#/TOAPr1/bin/Debug/netcoreapp3.1/TOAPr1.runtimeconfig.json
+/home/balochcoder/Projects/C#/TOAPr1/bin/Debug/netcoreapp3.1/TOAPr1.runtimeconfig.dev.json
+/home/balochcoder/Projects/C#/TOAPr1/bin/Debug/netcoreapp3.1/TOAPr1.dll
+/home/balochcoder/Projects/C#/TOAPr1/bin/Debug/netcoreapp3.1/TOAPr1.pdb
+/home/balochcoder/Projects/C#/TOAPr1/obj/Debug/netcoreapp3.1/TOAPr1.csprojAssemblyReference.cache
+/home/balochcoder/Projects/C#/TOAPr1/obj/Debug/netcoreapp3.1/TOAPr1.AssemblyInfoInputs.cache
+/home/balochcoder/Projects/C#/TOAPr1/obj/Debug/netcoreapp3.1/TOAPr1.AssemblyInfo.cs
+/home/balochcoder/Projects/C#/TOAPr1/obj/Debug/netcoreapp3.1/TOAPr1.csproj.CoreCompileInputs.cache
+/home/balochcoder/Projects/C#/TOAPr1/obj/Debug/netcoreapp3.1/TOAPr1.dll
+/home/balochcoder/Projects/C#/TOAPr1/obj/Debug/netcoreapp3.1/TOAPr1.pdb
+/home/balochcoder/Projects/C#/TOAPr1/obj/Debug/netcoreapp3.1/TOAPr1.genruntimeconfig.cache
